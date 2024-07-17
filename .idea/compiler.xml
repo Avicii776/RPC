@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rmc_frame_api" />
+        <module name="zk_Server" />
+        <module name="rmi_server" />
+        <module name="rpc_api" />
+        <module name="rmi_client" />
+        <module name="zk_rmi_frame" />
+        <module name="zk_Client" />
+        <module name="zk_" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
